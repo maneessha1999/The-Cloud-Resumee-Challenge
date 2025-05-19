@@ -77,7 +77,7 @@ Key services used in this project:
 1. **Clone this repository**:
 
     ```bash
-    git clone https://github.com/prudvikeshav/The-Cloud-Resume-Challenge.git
+    git clone https://github.com/maneessha1999/The-Cloud-Resumee-Challenge
     cd The-Cloud-Resume-Challenge
     ```
 
